@@ -24,7 +24,8 @@ function run(){
 }
 
 function handleDisplay(){
-    console.log(handleDisplay)
+    //console.log(handleDisplay)
+    return handleDisplay
 }
 
 document.addEventListener('DOMContentLoaded', run)
